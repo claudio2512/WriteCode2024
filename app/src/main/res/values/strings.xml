@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">DigitalMenu</string>
+    <string name="text_title">DroidFood</string>
+    <string name="text_header">| Cardápio |</string>
+    <string name="text_sum">R$ 0</string>
+
+    <string name="btn_1">Entradas</string>
+    <string name="btn_2">Pratos</string>
+    <string name="btn_3">Bebidas</string>
+    <string name="btn_4">Sobremesas</string>
+    <string name="btn_order">Realizar pedido</string>
+
+    <string name="chk_starter_1">Burrata ao pesto</string>
+    <string name="text_starter_1_time">Tempo médio: 10min</string>
+    <string name="text_starter_1_price">R$: 40,00</string>
+    <string name="chk_starter_2">Tartar de Salmão</string>
+    <string name="text_starter_2_time">Tempo médio: 15min</string>
+    <string name="text_starter_2_price">R$: 50,00</string>
+    <string name="chk_starter_3">Casquinha de Carangueijo</string>
+    <string name="text_starter_3_time">Tempo médio: 10min</string>
+    <string name="text_starter_3_price">R$: 35,00</string>
+    <string name="chk_starter_4">Camarões Tropicais</string>
+    <string name="text_starter_4_time">Tempo médio: 20min</string>
+    <string name="text_starter_4_price">R$: 45,00</string>
+
+    <string name="chk_main_1">Moqueca de Peixe</string>
+    <string name="text_main_1_time">Tempo médio: 30min</string>
+    <string name="text_main_1_price">R$: 145,00</string>
+    <string name="chk_main_2">Lasanha a Bolhonesa</string>
+    <string name="text_main_2_time">Tempo médio: 35min</string>
+    <string name="text_main_2_price">R$: 85,00</string>
+    <string name="chk_main_3">Tagliatelle al Ragù</string>
+    <string name="text_main_3_time">Tempo médio: 40min</string>
+    <string name="text_main_3_price">R$: 125,00</string>
+    <string name="chk_main_4">Frango Cubano</string>
+    <string name="text_main_4_time">Tempo médio: 35min</string>
+    <string name="text_main_4_price">R$: 100,00</string>
+
+    <string name="chk_beverage_1">Suco de laranja</string>
+    <string name="text_beverage_1_time">Tempo médio: 5min</string>
+    <string name="text_beverage_1_price">R$: 10,00</string>
+    <string name="chk_beverage_2">Coca-cola</string>
+    <string name="text_beverage_2_time">Tempo médio: 5min</string>
+    <string name="text_beverage_2_price">R$: 5,00</string>
+
+    <string name="chk_dessert_1">Pudim de leite</string>
+    <string name="text_dessert_1_time">Tempo médio: 10min</string>
+    <string name="text_dessert_1_price">R$: 15,00</string>
+    <string name="chk_dessert_2">Torta holandesa</string>
+    <string name="text_dessert_2_time">Tempo médio: 10min</string>
+    <string name="text_dessert_2_price">R$: 25,00</string>
+    <string name="chk_dessert_3">Tiramissu</string>
+    <string name="text_dessert_3_time">Tempo médio: 15min</string>
+    <string name="text_dessert_3_price">R$: 25,00</string>
+    <string name="chk_dessert_4">CheeseCake de Morango</string>
+    <string name="text_dessert_4_time">Tempo médio: 15min</string>
+    <string name="text_dessert_4_price">R$: 30,00</string>
+
+    <string name="validation_checkbox">Favor selecionar pelo menos um item do cardápio</string>
+    <string name="validation_div_zero">Não existe divisão por zero</string>
+</resources>

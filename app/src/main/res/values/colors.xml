@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="price">#C70039</color>
+    <color name="tx_title">#FFFFFF</color>
+    <color name="tx_subtitle">#FFFFFF</color>
+    <color name="bg_title">#900C3F</color>
+    <color name="bg_subtitle">#900C3F</color>
+    <color name="bg_footer">#C70039</color>
+    <color name="btn_order">#0275d8</color> <!-- 4a5f67 -->
+    <color name="bg_itens">#DAF7A6</color>
+
+</resources>
